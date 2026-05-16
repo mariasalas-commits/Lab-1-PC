@@ -118,3 +118,5 @@ PR(u) = (1 - d) / N  +  d * Σ [ PR(v) / grado_salida(v) ]
 ```
 
 Donde `d = 0.85` (por defecto) y los nodos sin salida distribuyen su puntaje uniformemente.
+## Observaciones
+Ingresar el dataset manualmente
