@@ -1,0 +1,37 @@
+============================================================
+REPORTE BÁSICO - RED DE WIKIPEDIA
+============================================================
+
+── RESUMEN GENERAL ──────────────────────────────────────
+Artículos (nodos)   : 7,423
+Enlaces (aristas)   : 38,809
+Grado entrada prom. : 5.23
+Grado salida prom.  : 5.23
+Máx grado entrada   : 844
+Máx grado salida    : 250
+Nodos sin salida    : 631
+Nodos sin entrada   : 1,797
+
+── TOP 10 POR GRADO DE ENTRADA ──────────────────────────
+   1. Enzyme                                        in=  844  [Metabolism, Enzymes]
+   2. Protein                                       in=  754  [Proteins, Molecular_biology]
+   3. DNA                                           in=  573  [Genetics, DNA]
+   4. Gene                                          in=  544  [Genetics, Molecular_biology]
+   5. Buprestidae                                   in=  537  [Buprestoidea]
+   6. Buprestoidea                                  in=  534  [Buprestoidea]
+   7. Bacteria                                      in=  465  [Microbiology, Bacteriology]
+   8. Cell (biology)                                in=  395  [Cell_biology]
+   9. RNA                                           in=  273  [RNA]
+  10. Euphorbia                                     in=  251  [Euphorbia]
+
+── TOP 10 POR GRADO DE SALIDA ───────────────────────────
+   1. Index of genetics articles                    out=  250  [Genetics]
+   2. List of Euphorbia species                     out=  231  [Euphorbia]
+   3. Agrilinae                                     out=  199  [Buprestoidea]
+   4. Buprestinae                                   out=  137  [Buprestoidea]
+   5. Bacteria                                      out=  129  [Microbiology, Bacteriology]
+   6. Chrysochroinae                                out=  108  [Buprestoidea]
+   7. Metabolism                                    out=  107  [Metabolism]
+   8. DNA                                           out=  106  [Genetics, DNA]
+   9. Immune system                                 out=  105  [Immunology, Immune_system]
+  10. List of regions in the human brain            out=  101  [Neuroanatomy, Cerebrum]

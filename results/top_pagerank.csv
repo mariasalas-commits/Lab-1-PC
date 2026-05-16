@@ -1,0 +1,51 @@
+posicion,id,nombre,pagerank,grado_entrada,grado_salida,categorias
+1,603,Buprestidae,0.01959634,537,48,Buprestoidea
+2,4516,Enzyme,0.01610123,844,69,Enzymes|Metabolism
+3,604,Buprestoidea,0.01588810,534,2,Buprestoidea
+4,3872,Euphorbia,0.01414566,251,45,Euphorbia
+5,5910,Protein,0.01357090,754,80,Molecular_biology|Proteins
+6,5985,DNA,0.01011667,573,106,DNA|Genetics
+7,6280,Cell (biology),0.00910637,395,56,Cell_biology
+8,6268,Bacteria,0.00884205,465,129,Bacteriology|Microbiology
+9,304,Schizopodidae,0.00868705,4,5,Buprestoidea
+10,5987,Gene,0.00779770,544,76,Genetics|Molecular_biology
+11,5986,RNA,0.00543201,273,53,RNA
+12,5980,Genetics,0.00461311,201,66,Genetics
+13,5655,Cell membrane,0.00444557,188,39,Membrane_biology
+14,544889,Worcester,0.00434169,83,12,People_from_Worcester
+15,5385,Neuron,0.00400699,206,47,Nervous_system
+16,6020,Nucleotide,0.00385501,176,18,Genetics
+17,5973,Transcription (genetics),0.00382886,220,38,Molecular_biology
+18,2033,Laboulbeniales,0.00353689,140,6,Laboulbeniomycetes
+19,5976,Molecular biology,0.00347798,167,45,Molecular_biology
+20,6595,Archaea,0.00332785,155,84,Microbiology
+21,6284,Metabolism,0.00329701,188,107,Metabolism
+22,6346,Immune system,0.00315345,188,105,Immune_system|Immunology
+23,5969,Gene expression,0.00304760,180,78,Molecular_biology
+24,6314,Antibody,0.00288943,181,69,Immune_system
+25,6389,Bone,0.00280373,107,48,Skeletal_system
+26,1322,Visual kei,0.00266315,94,11,Visual_kei_bands
+27,6019,Nucleic acid,0.00260703,109,33,Genetics
+28,6313,Antigen,0.00240245,159,33,Immune_system
+29,5984,Base pair,0.00239906,109,18,Genetics
+30,5943,Messenger RNA,0.00239284,104,38,Genetics|RNA
+31,2036,Laboulbeniaceae,0.00235315,120,5,Laboulbeniomycetes
+32,5423,Cerebral cortex,0.00234731,143,45,Cerebrum|Neuroanatomy
+33,9411,Inflammation,0.00226176,129,36,Immune_system
+34,6283,Apoptosis,0.00222081,146,28,Immune_system
+35,4508,Cofactor (biochemistry),0.00219929,122,29,Enzymes
+36,5975,Plasmid,0.00213476,111,37,Microbiology|Molecular_biology
+37,5988,Mutation,0.00213404,155,36,Genetics
+38,8497,Anatomy,0.00209316,85,6,Anatomy
+39,6371,Cartilage,0.00209082,58,9,Skeletal_system
+40,10720,Retina,0.00206110,101,41,Eye_anatomy
+41,5652,Phosphorylation,0.00195642,140,16,Cell_biology
+42,5645,Signal transduction,0.00191222,84,40,Cell_biology
+43,5401,Axon,0.00190635,97,16,Neuroanatomy|Neurophysiology
+44,5646,Cell biology,0.00190535,56,36,Cell_biology
+45,5912,Prokaryote,0.00190278,68,38,Microbiology
+46,6263,Pathogen,0.00188900,123,9,Microbiology
+47,5961,RNA polymerase,0.00182795,74,33,Enzymes|RNA
+48,5888,Transcription factor,0.00179384,131,54,DNA|Genetics
+49,5781,Active site,0.00178916,62,3,Enzymes
+50,5549,Metabolic pathway,0.00174359,53,15,Metabolism

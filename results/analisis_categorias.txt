@@ -1,0 +1,353 @@
+============================================================
+ANÁLISIS POR CATEGORÍA (Top 5 por PageRank)
+============================================================
+
+[Anatomy]
+  1. Anatomy (PR=0.002093, in=85, out=6)
+  2. Anatomical terms of location (PR=0.000973, in=30, out=19)
+  3. Mouth (PR=0.000918, in=41, out=5)
+  4. Foot (PR=0.000659, in=9, out=6)
+  5. Lumen (anatomy) (PR=0.000557, in=26, out=2)
+
+[Arteries_of_the_head_and_neck]
+  1. Middle cerebral artery (PR=0.000556, in=23, out=14)
+  2. Internal carotid artery (PR=0.000545, in=31, out=36)
+  3. Ophthalmic artery (PR=0.000503, in=33, out=23)
+  4. Posterior cerebral artery (PR=0.000495, in=21, out=17)
+  5. Vertebral artery (PR=0.000449, in=21, out=16)
+
+[Bacteriology]
+  1. Bacteria (PR=0.008842, in=465, out=129)
+  2. Saccharomyces cerevisiae (PR=0.001519, in=89, out=18)
+  3. Staphylococcus aureus (PR=0.000662, in=41, out=28)
+  4. Gram-positive bacteria (PR=0.000565, in=21, out=22)
+  5. Nucleoid (PR=0.000510, in=8, out=10)
+
+[Biotechnology]
+  1. Biotechnology (PR=0.001682, in=110, out=42)
+  2. Polymerase chain reaction (PR=0.001631, in=86, out=39)
+  3. Genetic engineering (PR=0.001369, in=68, out=54)
+  4. Restriction enzyme (PR=0.001301, in=58, out=43)
+  5. Recombinant DNA (PR=0.001099, in=62, out=18)
+
+[Blood_tests]
+  1. Blood sugar (PR=0.000568, in=20, out=10)
+  2. Flow cytometry (PR=0.000457, in=30, out=16)
+  3. Serology (PR=0.000306, in=10, out=3)
+  4. Protein electrophoresis (PR=0.000291, in=11, out=10)
+  5. Blood test (PR=0.000270, in=23, out=18)
+
+[Bones_of_the_head_and_neck]
+  1. Sphenoid bone (PR=0.001534, in=62, out=16)
+  2. Human mandible (PR=0.001374, in=59, out=9)
+  3. Temporal bone (PR=0.001350, in=62, out=10)
+  4. Maxilla (PR=0.001295, in=51, out=20)
+  5. Occipital bone (PR=0.001230, in=53, out=13)
+
+[Buprestoidea]
+  1. Buprestidae (PR=0.019596, in=537, out=48)
+  2. Buprestoidea (PR=0.015888, in=534, out=2)
+  3. Schizopodidae (PR=0.008687, in=4, out=5)
+  4. Schizopus (PR=0.001500, in=1, out=2)
+  5. Electrapate (PR=0.001500, in=1, out=2)
+
+[Cell_biology]
+  1. Cell (biology) (PR=0.009106, in=395, out=56)
+  2. Phosphorylation (PR=0.001956, in=140, out=16)
+  3. Signal transduction (PR=0.001912, in=84, out=40)
+  4. Cell biology (PR=0.001905, in=56, out=36)
+  5. Receptor (biochemistry) (PR=0.001554, in=77, out=21)
+
+[Cerebrum]
+  1. Cerebral cortex (PR=0.002347, in=143, out=45)
+  2. Temporal lobe (PR=0.001275, in=68, out=11)
+  3. Frontal lobe (PR=0.001037, in=61, out=27)
+  4. Parietal lobe (PR=0.000898, in=47, out=21)
+  5. Cerebral hemisphere (PR=0.000727, in=32, out=11)
+
+[DNA]
+  1. DNA (PR=0.010117, in=573, out=106)
+  2. Transcription factor (PR=0.001794, in=131, out=54)
+  3. DNA polymerase (PR=0.001531, in=66, out=15)
+  4. Intron (PR=0.001442, in=72, out=23)
+  5. Exon (PR=0.001034, in=62, out=17)
+
+[EC_1.1.1]
+  1. Alcohol dehydrogenase (PR=0.000413, in=11, out=19)
+  2. List of enzymes (PR=0.000320, in=5, out=48)
+  3. Lactate dehydrogenase (PR=0.000290, in=17, out=6)
+  4. Glucose-6-phosphate dehydrogenase (PR=0.000090, in=5, out=3)
+  5. HMG-CoA reductase (PR=0.000081, in=5, out=9)
+
+[EC_2.1.1]
+  1. List of enzymes (PR=0.000320, in=5, out=48)
+  2. Methylase (PR=0.000196, in=9, out=5)
+  3. DNA methyltransferase (PR=0.000119, in=8, out=12)
+  4. Histone methyltransferase (PR=0.000105, in=4, out=7)
+  5. Thymidylate synthase (PR=0.000045, in=2, out=2)
+
+[EC_2.3.1]
+  1. Fatty acid synthase (PR=0.000417, in=7, out=10)
+  2. List of enzymes (PR=0.000320, in=5, out=48)
+  3. Histone acetyltransferase (PR=0.000211, in=11, out=8)
+  4. Choline acetyltransferase (PR=0.000093, in=3, out=4)
+  5. Carnitine O-palmitoyltransferase (PR=0.000085, in=1, out=2)
+
+[EC_2.4.1]
+  1. Glycosyltransferase (PR=0.000409, in=24, out=11)
+  2. Glycogen synthase (PR=0.000297, in=6, out=8)
+  3. Glycogen phosphorylase (PR=0.000204, in=8, out=13)
+  4. Galactosyltransferase (PR=0.000155, in=4, out=2)
+  5. N-acetyllactosamine synthase (PR=0.000109, in=2, out=3)
+
+[EC_2.7.1]
+  1. Kinase (PR=0.001066, in=65, out=6)
+  2. Tyrosine kinase (PR=0.000432, in=26, out=13)
+  3. Hexokinase (PR=0.000404, in=11, out=11)
+  4. Phosphoinositide 3-kinase (PR=0.000183, in=12, out=13)
+  5. Protein kinase R (PR=0.000157, in=7, out=7)
+
+[EC_3.5.1]
+  1. Urease (PR=0.000486, in=9, out=8)
+  2. Histone deacetylase (PR=0.000334, in=26, out=32)
+  3. List of enzymes (PR=0.000320, in=5, out=48)
+  4. Allophanate hydrolase (PR=0.000109, in=2, out=2)
+  5. HDAC1 (PR=0.000064, in=6, out=8)
+
+[Enzymes]
+  1. Enzyme (PR=0.016101, in=844, out=69)
+  2. Cofactor (biochemistry) (PR=0.002199, in=122, out=29)
+  3. RNA polymerase (PR=0.001828, in=74, out=33)
+  4. Active site (PR=0.001789, in=62, out=3)
+  5. Ribozyme (PR=0.001057, in=32, out=24)
+
+[Enzymes_of_known_structure]
+  1. Formyltetrahydrofolate dehydrogenase (PR=0.000215, in=2, out=1)
+  2. Phosphopantothenoylcysteine decarboxylase (PR=0.000157, in=1, out=1)
+  3. Isocitrate lyase (PR=0.000084, in=3, out=13)
+  4. Malate synthase (PR=0.000081, in=2, out=3)
+  5. Manganese peroxidase (PR=0.000080, in=1, out=2)
+
+[Enzymes_of_unknown_structure]
+  1. Urea carboxylase (PR=0.000121, in=2, out=3)
+  2. Allophanate hydrolase (PR=0.000109, in=2, out=2)
+  3. Alpha-factor-transporting ATPase (PR=0.000094, in=1, out=1)
+  4. Aldehyde ferredoxin oxidoreductase (PR=0.000087, in=1, out=3)
+  5. L-lactate dehydrogenase (cytochrome) (PR=0.000064, in=1, out=1)
+
+[Euphorbia]
+  1. Euphorbia (PR=0.014146, in=251, out=45)
+  2. Cyathium (PR=0.001133, in=26, out=1)
+  3. Euphorbia peplis (PR=0.000506, in=3, out=2)
+  4. Euphorbia peplus (PR=0.000506, in=3, out=2)
+  5. Euphorbia pulcherrima (PR=0.000322, in=3, out=2)
+
+[Eye_anatomy]
+  1. Retina (PR=0.002061, in=101, out=41)
+  2. Sclera (PR=0.000625, in=36, out=17)
+  3. Cornea (PR=0.000613, in=42, out=14)
+  4. Photoreceptor cell (PR=0.000592, in=31, out=32)
+  5. Iris (anatomy) (PR=0.000493, in=28, out=15)
+
+[Flavin_enzymes]
+  1. L-lactate dehydrogenase (cytochrome) (PR=0.000064, in=1, out=1)
+  2. D-lactate dehydrogenase (cytochrome) (PR=0.000064, in=1, out=2)
+  3. Cellobiose dehydrogenase (acceptor) (PR=0.000061, in=1, out=2)
+  4. Trypanothione-disulfide reductase (PR=0.000049, in=1, out=2)
+  5. Acyl-CoA oxidase (PR=0.000035, in=1, out=4)
+
+[Flora_of_Madagascar]
+  1. Melanophylla (PR=0.000569, in=7, out=7)
+  2. Asteropeia (PR=0.000514, in=8, out=8)
+  3. Euphorbia milii (PR=0.000367, in=3, out=2)
+  4. Didiereaceae (PR=0.000308, in=4, out=3)
+  5. Asteropeiaceae (PR=0.000308, in=8, out=1)
+
+[Genetics]
+  1. DNA (PR=0.010117, in=573, out=106)
+  2. Gene (PR=0.007798, in=544, out=76)
+  3. Genetics (PR=0.004613, in=201, out=66)
+  4. Nucleotide (PR=0.003855, in=176, out=18)
+  5. Nucleic acid (PR=0.002607, in=109, out=33)
+
+[Head_and_neck]
+  1. Human eye (PR=0.001438, in=93, out=25)
+  2. Ear (PR=0.001057, in=33, out=13)
+  3. Hyoid bone (PR=0.000955, in=46, out=20)
+  4. Larynx (PR=0.000867, in=44, out=25)
+  5. Neck (PR=0.000763, in=34, out=8)
+
+[Histology]
+  1. Histology (PR=0.001058, in=41, out=13)
+  2. Photoreceptor cell (PR=0.000592, in=31, out=32)
+  3. Immunohistochemistry (PR=0.000553, in=22, out=14)
+  4. Basement membrane (PR=0.000461, in=17, out=3)
+  5. Syncytium (PR=0.000397, in=12, out=8)
+
+[History_of_medicine]
+  1. Gray's Anatomy (PR=0.000650, in=18, out=0)
+  2. History of anatomy (PR=0.000325, in=4, out=7)
+  3. Germ theory of disease (PR=0.000294, in=16, out=11)
+  4. Major depressive disorder (PR=0.000291, in=30, out=19)
+  5. Placebo (PR=0.000268, in=17, out=19)
+
+[Immune_system]
+  1. Immune system (PR=0.003153, in=188, out=105)
+  2. Antibody (PR=0.002889, in=181, out=69)
+  3. Antigen (PR=0.002402, in=159, out=33)
+  4. Inflammation (PR=0.002262, in=129, out=36)
+  5. Apoptosis (PR=0.002221, in=146, out=28)
+
+[Immunology]
+  1. Immune system (PR=0.003153, in=188, out=105)
+  2. Immunology (PR=0.001005, in=50, out=14)
+  3. White blood cell (PR=0.000916, in=44, out=28)
+  4. Autoimmunity (PR=0.000613, in=34, out=14)
+  5. CD4 (PR=0.000571, in=18, out=11)
+
+[Japanese_rock_music_groups]
+  1. X Japan (PR=0.001060, in=21, out=6)
+  2. Luna Sea (PR=0.000879, in=18, out=6)
+  3. Lazy (band) (PR=0.000540, in=3, out=3)
+  4. Zeni Geva (PR=0.000373, in=2, out=1)
+  5. Glay (PR=0.000365, in=5, out=12)
+
+[Laboulbeniomycetes]
+  1. Laboulbeniales (PR=0.003537, in=140, out=6)
+  2. Laboulbeniaceae (PR=0.002353, in=120, out=5)
+  3. Ceratomycetaceae (PR=0.000960, in=13, out=13)
+  4. Euceratomycetaceae (PR=0.000771, in=6, out=7)
+  5. Herpomycetaceae (PR=0.000524, in=1, out=1)
+
+[Membrane_biology]
+  1. Cell membrane (PR=0.004446, in=188, out=39)
+  2. Receptor (biochemistry) (PR=0.001554, in=77, out=21)
+  3. Lipid bilayer (PR=0.001196, in=40, out=33)
+  4. Peptidoglycan (PR=0.001165, in=39, out=11)
+  5. Mucous membrane (PR=0.000981, in=49, out=9)
+
+[Metabolism]
+  1. Enzyme (PR=0.016101, in=844, out=69)
+  2. Metabolism (PR=0.003297, in=188, out=107)
+  3. Metabolic pathway (PR=0.001744, in=53, out=15)
+  4. Photosynthesis (PR=0.001542, in=61, out=26)
+  5. Protein biosynthesis (PR=0.001283, in=31, out=21)
+
+[Microbiology]
+  1. Bacteria (PR=0.008842, in=465, out=129)
+  2. Archaea (PR=0.003328, in=155, out=84)
+  3. Plasmid (PR=0.002135, in=111, out=37)
+  4. Prokaryote (PR=0.001903, in=68, out=38)
+  5. Pathogen (PR=0.001889, in=123, out=9)
+
+[Molecular_biology]
+  1. Protein (PR=0.013571, in=754, out=80)
+  2. Gene (PR=0.007798, in=544, out=76)
+  3. Transcription (genetics) (PR=0.003829, in=220, out=38)
+  4. Molecular biology (PR=0.003478, in=167, out=45)
+  5. Gene expression (PR=0.003048, in=180, out=78)
+
+[Muscles_of_the_head_and_neck]
+  1. Galea aponeurotica (PR=0.000276, in=14, out=4)
+  2. Medial pterygoid muscle (PR=0.000265, in=11, out=12)
+  3. Mylohyoid muscle (PR=0.000249, in=12, out=8)
+  4. Lateral pterygoid muscle (PR=0.000240, in=8, out=6)
+  5. Superior rectus muscle (PR=0.000227, in=12, out=11)
+
+[NADH-dependent_enzymes]
+  1. Alcohol dehydrogenase (PR=0.000413, in=11, out=19)
+  2. Glycerol dehydrogenase (PR=0.000047, in=2, out=4)
+  3. Glycine cleavage system (PR=0.000045, in=2, out=1)
+  4. Methanol dehydrogenase (PR=0.000041, in=1, out=1)
+  5. 1,3-propanediol dehydrogenase (PR=0.000041, in=1, out=1)
+
+[NADPH-dependent_enzymes]
+  1. Formyltetrahydrofolate dehydrogenase (PR=0.000215, in=2, out=1)
+  2. Trypanothione-disulfide reductase (PR=0.000049, in=1, out=2)
+  3. Glycerol dehydrogenase (NADP+) (PR=0.000033, in=1, out=1)
+  4. 11beta-hydroxysteroid dehydrogenase (PR=0.000032, in=1, out=1)
+  5. Azobenzene reductase (PR=0.000030, in=1, out=3)
+
+[Nervous_system]
+  1. Neuron (PR=0.004007, in=206, out=47)
+  2. Nervous system (PR=0.001509, in=77, out=39)
+  3. Myelin (PR=0.000888, in=46, out=13)
+  4. Peripheral nervous system (PR=0.000723, in=40, out=12)
+  5. Depolarization (PR=0.000499, in=34, out=6)
+
+[Neuroanatomy]
+  1. Cerebral cortex (PR=0.002347, in=143, out=45)
+  2. Axon (PR=0.001906, in=97, out=16)
+  3. Medulla oblongata (PR=0.001186, in=55, out=15)
+  4. White matter (PR=0.000766, in=48, out=22)
+  5. List of regions in the human brain (PR=0.000643, in=24, out=101)
+
+[Neurological_disorders]
+  1. Autism (PR=0.000341, in=38, out=34)
+  2. Rabies (PR=0.000334, in=26, out=9)
+  3. Dysarthria (PR=0.000236, in=19, out=2)
+  4. Motion sickness (PR=0.000220, in=10, out=7)
+  5. Chronic inflammatory demyelinating polyneuropathy (PR=0.000213, in=8, out=7)
+
+[Neurology]
+  1. Cerebrospinal fluid (PR=0.000874, in=63, out=16)
+  2. Neurology (PR=0.000870, in=47, out=12)
+  3. Blood-brain barrier (PR=0.000475, in=39, out=20)
+  4. Neurologist (PR=0.000378, in=22, out=1)
+  5. Intracranial pressure (PR=0.000321, in=17, out=14)
+
+[Neurophysiology]
+  1. Axon (PR=0.001906, in=97, out=16)
+  2. Synapse (PR=0.001722, in=97, out=8)
+  3. Dendrite (PR=0.001126, in=46, out=8)
+  4. Brainstem (PR=0.000759, in=51, out=15)
+  5. Electrophysiology (PR=0.000618, in=34, out=22)
+
+[People_from_Worcester]
+  1. Worcester (PR=0.004342, in=83, out=12)
+  2. Edward Leader Williams (PR=0.000957, in=2, out=2)
+  3. Benjamin Williams Leader (PR=0.000737, in=2, out=1)
+  4. Ellen Wood (author) (PR=0.000330, in=1, out=1)
+  5. James White (17751820) (PR=0.000330, in=1, out=1)
+
+[Proteins]
+  1. Protein (PR=0.013571, in=754, out=80)
+  2. Protein biosynthesis (PR=0.001283, in=31, out=21)
+  3. Histone (PR=0.001268, in=65, out=24)
+  4. Proteomics (PR=0.001061, in=42, out=25)
+  5. C-terminus (PR=0.000972, in=52, out=9)
+
+[RNA]
+  1. RNA (PR=0.005432, in=273, out=53)
+  2. Messenger RNA (PR=0.002393, in=104, out=38)
+  3. RNA polymerase (PR=0.001828, in=74, out=33)
+  4. Transfer RNA (PR=0.001646, in=44, out=17)
+  5. Ribosomal RNA (PR=0.001292, in=48, out=11)
+
+[Reproduction]
+  1. Sexual reproduction (PR=0.001513, in=47, out=23)
+  2. Asexual reproduction (PR=0.001181, in=29, out=19)
+  3. Reproduction (PR=0.000981, in=41, out=17)
+  4. Sperm (PR=0.000973, in=47, out=9)
+  5. Spore (PR=0.000927, in=36, out=13)
+
+[Skeletal_system]
+  1. Bone (PR=0.002804, in=107, out=48)
+  2. Cartilage (PR=0.002091, in=58, out=9)
+  3. Bone marrow (PR=0.001410, in=72, out=19)
+  4. Ossification (PR=0.000743, in=20, out=7)
+  5. Joint (PR=0.000644, in=20, out=6)
+
+[Skin_conditions_resulting_from_physical_factors]
+  1. Miliaria (PR=0.000701, in=7, out=6)
+  2. Photosensitivity with HIV infection (PR=0.000385, in=3, out=3)
+  3. Tennis toe (PR=0.000356, in=3, out=1)
+  4. Turf toe (PR=0.000325, in=1, out=1)
+  5. Frostbite (PR=0.000265, in=7, out=2)
+
+[Visual_kei_bands]
+  1. Visual kei (PR=0.002663, in=94, out=11)
+  2. X Japan (PR=0.001060, in=21, out=6)
+  3. Luna Sea (PR=0.000879, in=18, out=6)
+  4. Malice Mizer (PR=0.000500, in=10, out=8)
+  5. Glay (PR=0.000365, in=5, out=12)
